@@ -25,9 +25,8 @@ It was developed as part of my coursework at Minerva University for **B111: Fina
 - DDM valuation estimates **fair value at NT$25.39**, close to the market price (NT$26.00).
 - Strategic focus: **cost efficiency + premium service differentiation**.
 
-## 🚀 Next Steps
-- Automate ratio calculations using Python/pandas.
-- Expand valuation with DCF modeling alongside DDM.
-- Add visualization dashboards (Tableau/PowerBI).
+## 🚀 Next Steps for China Airlines
+- <img width="813" height="595" alt="Screenshot 2025-09-17 at 00 41 41" src="https://github.com/user-attachments/assets/4fb0716b-85b9-4158-a8fc-2ca0fefa30ac" />
+
 
 ---
